@@ -49,11 +49,7 @@ const HomePage: React.FC = () => {
               transition={{ duration: 0.8 }}
               className="relative"
             >
-              <img 
-                src="gambar/desa1.png"
-                alt="Sibuluan Indah" 
-                className="w-full h-96 object-cover rounded-lg shadow-xl"
-              />
+              <img src="gambar/desa1.png" alt="Sibuluan Indah" className="w-full h-96 object-cover rounded-lg shadow-xl"/>
               <div className="absolute bottom-4 left-4 bg-white bg-opacity-90 p-4 rounded-lg">
                 <h3 className="font-bold text-gray-800">Sibuluan</h3>
                 <p className="text-gray-600 text-sm">Luas: 	1,11 km² | Penduduk: 4.639 jiwa</p>
