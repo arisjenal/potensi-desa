@@ -306,7 +306,7 @@ const AboutPage: React.FC = () => {
             >
               <img 
                 src="gambar/desa3.PNG" 
-                alt="Visi Misi Desa Sejahtera" 
+                alt="Visi Misi Desa Sibuluan" 
                 className="w-full h-auto rounded-lg shadow-lg"
               />
             </motion.div>
